@@ -1,4 +1,16 @@
-# AngularBlog
+# SOBRE
+Blog Angular desenvolvido durantes as aulas ministradas pelo Expert na plataforma da Digital Innovation One.
+Como diferencial estou adicionando responsividade e adicionando conteúdos sobre o anime Dragon Ball.
+
+# STATUS
+## EM CONSTRUÇÃO
+
+## TELA INICIAL
+![image](https://github.com/Lucasgyn94/angular-blog/assets/91031320/e09c1847-6ec6-4c94-b4fd-f1563f613be4)
+
+
+
+## AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
