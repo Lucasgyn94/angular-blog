@@ -1,8 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+/* Adicione as cores Dragon Ball */
 :root {
   --cor-de-fundo: #111111;
+  --laranja-dragonball: #FDB813;
+  --azul-dragonball: #2C82C9;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 * {
   margin: 0;
@@ -11,4 +13,17 @@
   background-color: var(--cor-de-fundo);
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+a {
+  text-decoration: none;
+  color: var(--azul-dragonball);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: white;
 }
